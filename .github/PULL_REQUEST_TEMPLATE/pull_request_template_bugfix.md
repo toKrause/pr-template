@@ -34,7 +34,7 @@ This PR fixes a bug.
   - If not self-evident, a description of the expected output/behavior
 
 <!-- -->
-- [ ] I've made a conscious effort to make it reviewers as easy as possible to understand the problem and the solution.
+- [ ] I've made a conscious effort to make it as easy as possible for reviewers to understand the problem and the solution.
 
 ### The boring part II: Ticket and PR metadata, target branch
 
@@ -73,6 +73,7 @@ This PR fixes a bug.
 - A bugfix should add a new test that to an existing test class (if such a test class exists)
 
 <!-- -->
+- [ ] I've made reasonable efforts to add automated tests.
 - [ ] I tested the bugfix myself and can confirm that the solution works.
 
 <!-- If changes were necesary, please add a concice description and justification -->
