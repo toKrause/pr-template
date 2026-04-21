@@ -2,7 +2,7 @@
 
 This PR fixes a bug.
 
-<!-- Please create a ticket and repace XXXX  with the ticket number in the following link -->
+<!-- Please create a ticket and replace XXXX  with the ticket number in the following link -->
 [Link to Jira](https://mycore.atlassian.net/browse/MCR-XXXX).
 
 <!-- An important question: Does this PR require any other pending PRs to be merged first? -->
