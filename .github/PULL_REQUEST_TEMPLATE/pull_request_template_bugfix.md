@@ -67,7 +67,7 @@ This PR fixes a bug.
 <!-- Otherwise, please remove this section -->
 **About those unpreventable braking changes:**  ...
 
-## The tedious part: Testing
+### The tedious part: Testing
 
 - A bugfix should not change existing tests (unless absolutely necessary)
 - A bugfix should add a new test that to an existing test class (if such a test class exists)
