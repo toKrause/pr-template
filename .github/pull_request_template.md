@@ -1,5 +1,5 @@
 Please go to the `Preview` tab and select the appropriate sub-template:
 
-* ![bug](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABZUlEQVR4XsVTsUoDQRBdBQvRH7Cxs7E0H6AgWCXORoya29MyYJXaQgj2Wgha26hY2IpYC4oKVn5CUEKKu5zhOs83u3eb24sQC8GB4W7mvXk3uzMnxF9Y0hLjfX9txsZCjIWe3A89+mAPlNzL85nLNTYB8l2o6H4Q01GoZILcCbBT/e6tHlhc0QM4t1ksAk/uMimqVxcNQXZBuMzh14jb/P6p5DJzkWtkuEi2V6ag+h4o6rGy+fqPfoPCiMWSWm3SCrDFO5VZAM8p8QyttxznnMGemOsUZxb5ckkfBc9fY6m60+oQSQwEHEetAQptjhCwxxvi9VS1PEqAOUVMW1CXG5hEnH7FL+LYgy2DURwpWndAHgla6mBEL3pJFD0mjdJEDp82GPZD0RtznTEi0WT1vl9ZCL3yHMgB/NXcCx3z3OFf2JNN5EvpBTbzAodIXmQxWpxH4bn+FzSZ2ryBlq/kFddk8f/aN3+8LDAO2E8NAAAAAElFTkSuQmCC) [Bugfix](?expand=1&template=pull_request_template_bugfix.md)
-* ![improvement](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlElEQVR4XmNgoBUoXCXDmTlLeX/mLKW9uZNU2NHl8QKQBpDmrFnK/0EYxCbaEJDCrJnK+zJnKv/KmqX0AoTBbKAYQUNgNgPxz6wZCh5Q9n4o+ydel6BrBonBDACxCRoC9KsVUPJT5kwlb5gYkH8AhOF8oBxIDUgtTAwFFMxXEEDmoxsAAuhq8AJsBpAERg0YDAYQAwAOom+AdDBuUwAAAABJRU5ErkJggg==) [Improvement](?expand=1&template=pull_request_template_improvement.md)
-* ![new feature](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4XmNgoAbInq3gnzVT6XrWLOX/ROJr2bOVvOAGAAUeZ85UugE0pIEYDFR7K3Om8l1kA/6DJOACBADYIKAehAAOAzJnKR8AYXTxQW4ATBMYz1T6AMZIYrQ3ABmQ5QVkMPAG4AIYBgAD6iGpSTlrltI9uAGgzAQ2AOQSInDmLKWLKJmJEgAAHmTrW+DcgFUAAAAASUVORK5CYII=) [New Feature](?expand=1&template=pull_request_template_new_feature.md)
+* ![bug](bug.png) [Bugfix](?expand=1&template=pull_request_template_bugfix.md)
+* ![improvement](improvement.png)[Improvement](?expand=1&template=pull_request_template_improvement.md)
+* ![new feature](new_feature.png)[New Feature](?expand=1&template=pull_request_template_new_feature.md)
