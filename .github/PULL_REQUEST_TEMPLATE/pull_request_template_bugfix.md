@@ -28,7 +28,7 @@ This PR fixes a bug.
   - If not self-evident, a description of the problematic output/behavior
   - If not self-evident, a description of the expected output/behavior
 
-- [ ] I've made a conscious effort to make it reviewers as easy as possible to unserstand the problem and the solution.
+- [ ] I've made a conscious effort to make it reviewers as easy as possible to understand the problem and the solution.
 
 ### The boring part II: Ticket and PR metadata, target branch
 
@@ -36,16 +36,16 @@ This PR fixes a bug.
  
 - DO NOT CREATE A NEW TICKET: Reuse the ticket number of th PR that introduced the bug
 - The PR should have the same target branch as the offending PR 
-- The ticket should have *Affects version*: `????`
-- The ticket should have *Fix version*: `????`
+- The Jira ticket should have *Affects version*: `????`
+- The Jira ticket should have *Fix version*: `????`
 
 **If the problem has already been released:**
 
 - The PR should have the oldest feasible target branch that includes the problem (say, `20XX.12.x`)
-- Tag ticket should have *Affects version*: All unreleased versions from `20XX.12.x` up to, but not including, `main`
-- Tag ticket should have *Fix version*: All unreleased versions from `20XX.12.x` up to, and including, `main`
+- Tag Jira ticket should have *Affects version*: All unreleased versions from `20XX.12.x` up to, but not including, `main`
+- Tag Jira ticket should have *Fix version*: All unreleased versions from `20XX.12.x` up to, and including, `main`
 
-- [ ] I chose an appropriate target branch and added all relevant versions to the ticket. 
+- [ ] I chose an appropriate target branch and added all relevant versions to the Jira ticket. 
 
 
 
