@@ -56,7 +56,10 @@ This PR fixes a bug.
 
 ### The core part: The bugfix
 
+<!-- If you notice something that should be cleand-up or improved, please make a follow-up PR targeting main -->
+
 - A bugfix should only fix the bug
+- A bugfix should make the bare minimum of changes
 - A bugfix should not change the _public API_ (unless absolutely necessary)
 - A bugfix should not introduce breaking changes that require a migration (unless absolutely necessary)
 
