@@ -28,7 +28,7 @@ This PR fixes a bug.
   - If not self-evident, a description of the problematic output/behavior
   - If not self-evident, a description of the expected output/behavior
 
-[ ] I've made a conscious effort to make it reviewers as easy as possible to unserstand the problem and the solution.
+- [ ] I've made a conscious effort to make it reviewers as easy as possible to unserstand the problem and the solution.
 
 ### The boring part II: Ticket and PR metadata, target branch
 
@@ -45,7 +45,7 @@ This PR fixes a bug.
 - Tag ticket should have *Affects version*: All unreleased versions from `20XX.12.x` up to, but not including, `main`
 - Tag ticket should have *Fix version*: All unreleased versions from `20XX.12.x` up to, and including, `main`
 
-[ ] I chose an appropriate target branch and added all relevant versions to the ticket. 
+- [ ] I chose an appropriate target branch and added all relevant versions to the ticket. 
 
 
 
